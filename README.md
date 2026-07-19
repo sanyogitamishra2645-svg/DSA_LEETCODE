@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [3908-valid-digit-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/3908-valid-digit-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
