@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
+| [0383-ransom-note](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 ## Array
 |  |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0389-find-the-difference) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
