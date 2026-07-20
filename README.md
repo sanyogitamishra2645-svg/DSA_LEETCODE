@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
