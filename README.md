@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0728-self-dividing-numbers) |
+| [2413-smallest-even-multiple](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2525-categorize-box-according-to-criteria) |
 | [3908-valid-digit-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/3908-valid-digit-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2413-smallest-even-multiple) |
 ## Bit Manipulation
 |  |
 | ------- |
