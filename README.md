@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
 | ------- |
