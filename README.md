@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1108-defanging-an-ip-address) |
+| [1678-goal-parser-interpretation](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Array
 |  |
