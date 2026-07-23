@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2525-categorize-box-according-to-criteria) |
+| [2652-sum-multiples](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2652-sum-multiples) |
 | [3908-valid-digit-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/3908-valid-digit-number) |
 ## Hash Table
 |  |
