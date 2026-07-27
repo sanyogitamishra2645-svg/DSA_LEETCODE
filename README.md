@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Array
 |  |
