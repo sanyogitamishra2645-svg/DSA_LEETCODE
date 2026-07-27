@@ -5,14 +5,11 @@ public:
             if(s.size()!= words.size()){
                 return false;
             }
-
-            for(char c : words[i]){
-                if(s[i]==c){
-                    break;
-                }
-                else{
-                    return false;
-                }
+            if(words[i][0]==s[i]){
+                continue;
+            }
+            else{
+                return false;
             }
         }
         return true;
