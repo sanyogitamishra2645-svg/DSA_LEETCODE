@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maximumWealth(vector<vector<int>>& accounts) {
-        int max=INT_MIN;
+        int max=0;
         for(int i=0; i<accounts.size();i++){
             int wealth=0;
             for(int j=0;j<accounts[i].size();j++){
