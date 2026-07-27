@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Array
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1528-shuffle-string) |
 | [1929-concatenation-of-array](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
