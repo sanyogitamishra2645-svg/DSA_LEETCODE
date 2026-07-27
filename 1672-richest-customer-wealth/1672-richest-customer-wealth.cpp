@@ -11,10 +11,6 @@ public:
             }
             if(wealth>max){
                 max=wealth;
-                wealth=0;
-            }
-            else{
-                wealth=0;
             }
         }
         return max;
