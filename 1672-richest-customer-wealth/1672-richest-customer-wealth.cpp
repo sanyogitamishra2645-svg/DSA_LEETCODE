@@ -4,13 +4,17 @@ public:
         vector<int>ans(accounts.size());
         int max=-9999999;
         for(int i=0; i<accounts.size();i++){
+            int wealth=0;
             for(int j=0;j<accounts[i].size();j++){
-                ans[i]+=accounts[i][j];
+                
+                wealth+=accounts[i][j];
             }
-        }
-        for(int i=0;i<ans.size();i++){
-            if(ans[i]>max){
-                max=ans[i];
+            if(wealth>max){
+                max=wealth;
+                wealth=0;
+            }
+            else{
+                wealth=0;
             }
         }
         return max;
