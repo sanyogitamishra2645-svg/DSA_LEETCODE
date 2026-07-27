@@ -5,10 +5,7 @@ public:
             if(s.size()!= words.size()){
                 return false;
             }
-            if(words[i][0]==s[i]){
-                continue;
-            }
-            else{
+            if(words[i][0] != s[i]){
                 return false;
             }
         }
