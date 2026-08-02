@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3110-score-of-a-string](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
 | ------- |
