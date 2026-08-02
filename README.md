@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2235-add-two-integers) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0877-stone-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -132,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1672-richest-customer-wealth) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
