@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Two Pointers
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -102,11 +104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0389-find-the-difference) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
 | ------- |
