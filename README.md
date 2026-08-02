@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1512-number-of-good-pairs](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2469-convert-the-temperature) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0389-find-the-difference) |
+| [1512-number-of-good-pairs](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1773-count-items-matching-a-rule) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0383-ransom-note) |
+| [1512-number-of-good-pairs](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
