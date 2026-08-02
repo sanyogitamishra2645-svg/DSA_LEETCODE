@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1678-goal-parser-interpretation) |
+| [1773-count-items-matching-a-rule](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1672-richest-customer-wealth) |
+| [1773-count-items-matching-a-rule](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
