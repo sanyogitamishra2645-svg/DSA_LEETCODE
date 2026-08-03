@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0258-add-digits) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0383-ransom-note) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0342-power-of-four) |
