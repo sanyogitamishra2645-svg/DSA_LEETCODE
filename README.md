@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 | [1512-number-of-good-pairs](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0877-stone-game](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0877-stone-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/1480-running-sum-of-1d-array) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
@@ -120,11 +123,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanyogitamishra2645-svg/DSA_LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
